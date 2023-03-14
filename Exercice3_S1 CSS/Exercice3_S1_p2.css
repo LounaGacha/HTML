@@ -1,0 +1,33 @@
+body {
+	background: lightgray;
+}
+
+
+h3 {
+
+	color: red;
+	background: yellow;
+	border-style: solid;
+	border-color: black;
+	font-size: 40px;
+	margin: 50px;
+
+}
+
+h4 {
+	background: cyan;
+	border-style: dotted;
+	border-color: purple;
+	border-width: 5px;
+	font-size: 25px;
+	padding: 50px;
+}
+
+hr {
+	color: red;
+	background: white;
+	border-style: dashed;
+	border-width: 5px;
+	padding: 5px;
+	border 10px;
+}
