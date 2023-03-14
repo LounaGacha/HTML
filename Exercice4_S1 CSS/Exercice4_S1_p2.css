@@ -1,0 +1,46 @@
+body {
+  color: #009090;
+  background: rgb(250,200,100);
+
+}
+
+h1 {
+  border: solid;
+  text-align: center;
+  font-size: 20px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+h2, h3 {
+  text-decoration: underline;
+}
+
+div {
+  border: 1px dashed blue;
+  background: red;
+  padding: 5px;
+  margin: 40px;
+}
+
+#id1 {
+  border: solid;
+  background: white;
+  margin: 25px;
+}
+
+p {
+  text-indent: 45px;
+}
+
+p.bloc {
+  margin-left: 80px;
+  padding: 10px;
+  border-left: solid;
+  border-color: black;
+}
+
+.souligne {
+  text-decoration: underline;
+}
+
