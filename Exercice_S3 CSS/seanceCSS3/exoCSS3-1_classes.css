@@ -1,0 +1,42 @@
+h2.titre1 {
+	text-align: center;
+	font-size: 45px;
+
+}
+
+h2.titre2 {
+	color: white;
+	background: teal;
+	text-align: center;
+	font-size: 30px;
+}
+
+h2.titre3 {
+	background: lightgreen;
+	text-align: center;
+	margin: 1px 60px;
+}
+
+p.rouge {
+	color: red;
+	font-weight: bold;
+}
+
+p.intro {
+	font-style: italic;
+	text-align: right;
+}
+
+p.text1 {
+	text-indent: 40px;
+}
+
+p.text2 {
+	text-align: left;
+	text-transform: capitalize;
+	margin-right: 35%;
+}
+
+.aligne {
+	margin: 15px 20px;
+}
